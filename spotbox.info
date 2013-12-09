@@ -20,6 +20,7 @@ features[features_api][] = api:1
 features[field_base][] = field_os2intra_frontpagespot
 features[field_base][] = field_spotbox_image
 features[field_base][] = field_spotbox_link
+features[field_base][] = field_spotbox_text
 features[field_instance][] = node-spotbox-field_os2intra_frontpagespot
 features[field_instance][] = node-spotbox-field_spotbox_image
 features[field_instance][] = node-spotbox-field_spotbox_link

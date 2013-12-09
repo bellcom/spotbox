@@ -271,6 +271,7 @@ function spotbox_views_default_views() {
   $handler->display->display_options['arguments']['nid']['specify_validation'] = TRUE;
   $handler->display->display_options['arguments']['nid']['validate']['type'] = 'node';
   $handler->display->display_options['arguments']['nid']['validate_options']['types'] = array(
+    'group' => 'group',
     'os2intra_base_page' => 'os2intra_base_page',
   );
   $handler->display->display_options['arguments']['nid']['break_phrase'] = TRUE;
